@@ -1,0 +1,12 @@
+http://svn.jostens.com/svn/Enterprise/User/UserServices/branches/2.4_WCS
+http://svn.jostens.com/svn/Enterprise/Catalog/CatalogServices/branches/3.7.PRD_WCS
+http://svn.jostens.com/svn/Enterprise/Order/branches/2.1.PRD_WCS/OrderServices
+http://svn.jostens.com/svn/Enterprise/Logging/LoggingServices/branches/1.0
+http://svn.jostens.com/svn/Enterprise/User/UserProfile/branches/2.3.0.PRD_WCS
+http://svn.jostens.com/svn/Enterprise/Checkout/branches/2.19.PRD_WCS
+http://svn.jostens.com/svn/Enterprise/Catalog/Catalog/branches/2.5.PRD_WCS
+http://svn.jostens.com/svn/Enterprise/Catalog/CatalogWeb/branches/2.7.0.PRD_WCS
+http://svn.jostens.com/svn/JCOM/jostens.com/branches/4.2.PRD_WCS
+http://svn.jostens.com/svn/Enterprise/Admin/branches/2.5.PRD_WCS/EnterpriseAdmin
+http://svn.jostens.com/svn/Enterprise/PdfTemplateProcessor/assets/branches/WCS
+http://svn.jostens.com/svn/Enterprise/asp/Shop/branches/prod_WCS
